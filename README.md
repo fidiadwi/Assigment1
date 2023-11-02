@@ -11,7 +11,7 @@
   System.out.println(i);
 }
  ```
-3. Jika lebih dari 9 maka akan muncul output Akhmat Qavidhufahmi sampai ke 100
+3. Jika lebih dari 9 maka akan muncul output Fidia Dewi Wulandari Batu Bara sampai ke 100
 ```sh
    else {
    System.out.println("Fidia Dewi Wulandari Batu Bara");
