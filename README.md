@@ -11,8 +11,6 @@
   System.out.println(i);
 }
  ```
-![Screenshot (652)](https://github.com/fidiadwi/Assigment1_FidiaDewiWulandariBB_040/assets/146094929/bef45dbd-9725-4d41-b85c-fb8fb09aa682)
-
 3. Jika lebih dari 9 maka akan muncul output Akhmat Qavidhufahmi sampai ke 100
 ```sh
    else {
@@ -20,6 +18,7 @@
 }
    ```
 4. Ini adalah hasil outputnya
+   ![Screenshot (652)](https://github.com/fidiadwi/Assigment1_FidiaDewiWulandariBB_040/assets/146094929/7cee75dd-b2af-416b-80a9-3a7d7facdf02)
 
 
 ## Tugas 2
